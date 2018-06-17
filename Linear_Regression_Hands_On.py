@@ -4,9 +4,9 @@
 # Welcome to the second hands-on exercise for Tensorflow. In this exercise , you will be building a linear regression model using tensorflow. 
 # You will be given a vector of input and output data, you need to find the linear relationship between these two data which is in the form  $$y = w*x + b$$
 
-# Execute the code in each cell using the **Shift + Enter** command
+# Execute the code in each cell using the **Shift + Enter** command.changes to test cherry pick
 
-# Importing the necessary libraries.  Import for cherry pick
+# Importing the necessary libraries.  Import for cherry pick. 
 
 # In[6]:
 
